@@ -1,0 +1,29 @@
+_repo: Macbeth_1795
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '1999-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1795'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Macbeth, King of Scotland, active 11th century -- Drama'
+- !lcsh 'Scotland -- Kings and rulers -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Regicides -- Drama'
+title: Macbeth
+url: http://www.gutenberg.org/ebooks/1795
