@@ -1,5 +1,5 @@
 _repo: Macbeth_1795
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcc 'PR'
 - !lcsh 'Regicides -- Drama'
+- GITenberg
 title: Macbeth
 url: http://www.gutenberg.org/ebooks/1795
